@@ -1,0 +1,24 @@
+{
+  "name": "gitbook-plugin-postman",
+  "version": "1.0.0",
+  "description": "Add postman code to gitbook ",
+  "scripts": {
+    "test": "echo \"No Tests\""
+  },
+  "main": "index.js",
+  "keywords": [
+    "gitbook",
+    "postman",
+    "analytics"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dtolb/gitbook-plugin-postman"
+  },
+  "author": "Dan Tolbert",
+  "license": "MIT",
+  "engines": {
+    "gitbook": ">=3.0.0-pre.0"
+  },
+  "gitbook": {}
+}
